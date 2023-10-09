@@ -1,0 +1,10 @@
+[
+    {
+        "type": "print",
+        "args": ["Hello!"]
+    },
+    {
+        "type": "repeat",
+        "args": [0]
+    }
+]
